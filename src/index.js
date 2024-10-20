@@ -13,7 +13,7 @@ function setupAndStartServer(){
 
     app.listen(PORT, () => {
         console.log(`Server is started and running at port ${PORT}`)
-        jobs();
+        // jobs();
         // sendBasicEmail(
         //     'support@admin.com',
         //     'vkforyt@gmail.com',
